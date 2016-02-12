@@ -1,0 +1,32 @@
+Flask:
+
+https://pythonprogramming.net/creating-first-flask-web-app/
+
+https://www.youtube.com/watch?v=qZNL4Ku1UQg&index=2&list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB
+
+(above youtube series by sentdex)
+
+deviations:
+-do it on other folder....
+- use sudo when installing things.
+-dont use sudo for 'pip install Flask' line :|
+-check for 'pip list' for flask
+-in vistualenv-conf, set Servername as localhost  (no qotue marks, no captial letters)
+then, on browser, lookup on 127.0.0.1
+
+
+
+
+
+
+
+
+
+
+for gedit/notepad..
+-
+
+
+
+python-default idle:
+
